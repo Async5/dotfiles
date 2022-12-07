@@ -1,0 +1,56 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "HTML"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 16,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "prettier.bracketSameLine": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/dist/css"
+    }
+  ],
+  "material-icon-theme.activeIconPack": "react_redux",
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 1,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+
+  "workbench.colorCustomizations": {
+    // "terminal.background": "#131212",
+    "terminalCursor.foreground": "#38ff9c",
+    "terminal.foreground": "#ebddf4",
+    "terminal.ansiBlack": "#0b3b61",
+    "terminal.ansiBrightBlack": "#62686c",
+    "terminal.ansiBlue": "#1376f8",
+    "terminal.ansiBrightBlue": "#378dfe",
+    "terminal.ansiCyan": "#ff5dd4",
+    "terminal.ansiBrightCyan": "#ff69d7",
+    "terminal.ansiGreen": "#52ffcf",
+    "terminal.ansiBrightGreen": "#73ffd8",
+    "terminal.ansiMagenta": "#c792ea",
+    "terminal.ansiBrightMagenta": "#ae81ff",
+    "terminal.ansiRed": "#ff3a3a",
+    "terminal.ansiBrightRed": "#ff54b0",
+    "terminal.ansiWhite": "#15fca2",
+    "terminal.ansiBrightWhite": "#5ffbbe",
+    "terminal.ansiYellow": "#fff383",
+    "terminal.ansiBrightYellow": "#fcf4ad"
+  }
+}
